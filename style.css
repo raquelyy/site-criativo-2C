@@ -10,3 +10,7 @@
  .cabecalho-Imagem{
     Width: 20%;
  }
+
+.cabecalho-lista-item{
+display: inline-block;
+}
